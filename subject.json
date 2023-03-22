@@ -1,0 +1,13 @@
+{
+    "name": "Biology",
+    "teacher": {
+        "name": "Nana Ama",
+        "sex": "female"
+    },
+    "students_size": 24,
+    "elective": true,
+    "lesson days": [
+        "Tuesday",
+        "Friday"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Asake Babatunde",
+    "age": 28,
+    "marital status": "Married",
+    "children": [
+        "Ayo",
+        "Tolu",
+        "Simi"
+    ],
+    "staff": false,
+    "next of kin": {
+        "name": "Babatune Lanre",
+        "relationship": "husband"
+    }
+}

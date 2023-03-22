@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Edidiong Ime",
+        "subject": "Chemistry",
+        "score": 91,
+        "class": "SS 3"
+    },
+    {
+        "name": "Jesse Umoh",
+        "subject": "Chemistry",
+        "score": 85,
+        "class": "SS 3"
+    },
+    {
+        "name": "Kingsley Chuks",
+        "subject": "Chemistry",
+        "score": 68,
+        "class": "SHS 3"
+    },
+    {
+        "name": "Martha Sam",
+        "subject": "Chemistry",
+        "score": 79,
+        "class": "SHS 3"
+    }
+]
